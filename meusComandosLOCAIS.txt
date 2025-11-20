@@ -1,0 +1,16 @@
+  439  git commit -m "3ª tarefa concluida"
+  440  git push origin main
+  441  ls
+  442  git add .
+  443  git commit -m "4ª tarefa concluida"
+  444  git push origin main
+  445  git branch
+  446  git pull
+  447  ls
+  448  git status
+  449  git add .
+  450  git commit -m "5ª tarefa cumprida"
+  451  git push origin main
+  452  ls
+  453  git status
+  454  git pull origin main
